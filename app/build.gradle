@@ -52,7 +52,7 @@ android {
             // fill your bbs id
             manifestPlaceholders = [
                     discuz_title: "风帘翠幕论坛",
-                    discuz_base_url: "http://47.107.96.52:89/",
+                    discuz_base_url: "https://bbs.qzzn.com/",
             ]
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             applicationIdSuffix ".bbs"
